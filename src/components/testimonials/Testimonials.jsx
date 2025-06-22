@@ -9,7 +9,7 @@ import TestimonialsItem from "./TestimonialsItem";
 const TestimonialsData = [
   {
     id: 1,
-    img: "/public/person/1.jpg",
+    img: "/person/1.jpg",
     name: "Angelie Jul",
     description:
       " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est tenetur ducimus dolor nulla natus obcaecati",
@@ -17,7 +17,7 @@ const TestimonialsData = [
   },
   {
     id: 2,
-    img: "/public/person/2.jpg",
+    img: "/person/2.jpg",
     name: "Peper Pods",
     description:
       " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est tenetur ducimus dolor nulla natus obcaecati",
@@ -25,7 +25,7 @@ const TestimonialsData = [
   },
   {
     id: 3,
-    img: "/public/person/3.jpg",
+    img: "/person/3.jpg",
     name: "Bruce Wayne",
     description:
       " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est tenetur ducimus dolor nulla natus obcaecati",
@@ -33,7 +33,7 @@ const TestimonialsData = [
   },
   {
     id: 4,
-    img: "/public/person/4.jpg",
+    img: "/person/4.jpg",
     name: "Latte",
     description:
       " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est tenetur ducimus dolor nulla natus obcaecati",
@@ -41,7 +41,7 @@ const TestimonialsData = [
   },
   {
     id: 5,
-    img: "/public/person/5.jpg",
+    img: "/person/5.jpg",
     name: "Angel Wick",
     description:
       " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est tenetur ducimus dolor nulla natus obcaecati",
@@ -49,7 +49,7 @@ const TestimonialsData = [
   },
   {
     id: 6,
-    img: "/public/person/6.jpg",
+    img: "/person/6.jpg",
     name: "Arya Stark",
     description:
       " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est tenetur ducimus dolor nulla natus obcaecati",
@@ -57,7 +57,7 @@ const TestimonialsData = [
   },
   {
     id: 7,
-    img: "/public/person/7.jpg",
+    img: "/person/7.jpg",
     name: "Bruce Banner",
     description:
       " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est tenetur ducimus dolor nulla natus obcaecati",

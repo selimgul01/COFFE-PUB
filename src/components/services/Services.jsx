@@ -4,7 +4,7 @@ import ServicesItem from "./ServicesItem";
 const ServiceData = [
   {
     id: 1,
-    img: "/public/1.png",
+    img: "/1.png",
     name: "Espresso",
     description:
       " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est tenetur ducimus dolor nulla natus obcaecati",
@@ -12,7 +12,7 @@ const ServiceData = [
   },
   {
     id: 2,
-    img: "/public/3.png",
+    img: "/3.png",
     name: "Cappicuno",
     description:
       " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est tenetur ducimus dolor nulla natus obcaecati",
@@ -20,7 +20,7 @@ const ServiceData = [
   },
   {
     id: 3,
-    img: "/public/4.png",
+    img: "/4.png",
     name: "Americano",
     description:
       " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est tenetur ducimus dolor nulla natus obcaecati",
@@ -28,7 +28,7 @@ const ServiceData = [
   },
   {
     id: 4,
-    img: "/public/5.png",
+    img: "/5.png",
     name: "Latte",
     description:
       " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est tenetur ducimus dolor nulla natus obcaecati",

@@ -2,7 +2,7 @@ import React from 'react'
 
 const PlayStore = () => {
   return (
-    <div className=' bg-[url("public/beans2.jpg")] bg-center bg-no-repeat bg-cover h-full w-full p-28'>
+    <div className=' bg-[url("/beans2.jpg")] bg-center bg-no-repeat bg-cover h-full w-full p-28'>
       <div className="container">
         <div className="grid grid-cols-1 md:grid-cols-2">
             <div className="">

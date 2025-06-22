@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className='bg-[url("/public/h1.jpg")] bg-center bg-no-repeat bg-cover h-full w-full'>
+    <div className='bg-[url("/h1.jpg")] bg-center bg-no-repeat bg-cover h-full w-full'>
       <div className="min-h-[550px] flex items-center justify-center ">
         <div className="container m-auto flex items-center justify-center">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 place-content-center">
@@ -12,7 +12,7 @@ const Banner = () => {
             >
               <img
                 className="spinOne m-auto md:h-[400px] md:w-[400px]  sm:h-[200px] sm:w-[200px]"
-                src="/public/2.png"
+                src="/2.png"
                 
               />
             </div>

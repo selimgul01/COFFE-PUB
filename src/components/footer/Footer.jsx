@@ -25,7 +25,7 @@ const Menu =[
   ]
 const Footer = () => {
   return (
-     <div className="bg-[url('/public/f1.jpg')] bg-center
+     <div className="bg-[url('/f1.jpg')] bg-center
     bg-no-repeat bg-cover h-full w-full">
         <div className='bg-black/60 min-h-[400px]'>
             <div className='container grid md:grid-cols-3 pb-20 pt-5'>
@@ -37,7 +37,7 @@ const Footer = () => {
 
 
                         <a className='inline-block border-2 text-white font-poppins font-semibold bg-red-600 py-2 px-4 mt-5 text-sm rounded-full'
-                         href='https://www.youtube.com/@EfeGorkemUmit'> 
+                         href='https://www.google.com'> 
                         Visit Yout Youtube Chanel
                         </a>
                 </div>
@@ -94,15 +94,15 @@ const Footer = () => {
 
                                 <div className='flex items-center gap-3 mt-6'>
 
-                                    <a href='https://www.youtube.com/@EfeGorkemUmit'>
+                                    <a href='https://www.google.com/'>
                                         <FaYoutube className='text-3xl duration-300 text-light hover:scale-110 '></FaYoutube>
                                     </a>
 
-                                    <a href='https://www.linkedin.com/in/efe-g%C3%B6rkem-%C3%BCmit-a084009b/'>
+                                    <a href='https://www.google.com/'>
                                         <FaLinkedin className='text-3xl duration-300 text-light hover:scale-110 '></FaLinkedin>
                                     </a>
 
-                                    <a href='https://www.instagram.com/efegorkemumit/'>
+                                    <a href='https://www.google.com/'>
                                         <FaInstagram className='text-3xl duration-300 text-light hover:scale-110 '></FaInstagram>
                                     </a>
 
